@@ -3,4 +3,4 @@
 import "./css/main.css";
 
 // Say hello
-console.log("🦊 Hello! Edit me in src/index.js");
+console.log("🦊 Hello Chandana Learn Devops and excel! Edit me in src/index.js");
